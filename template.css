@@ -21,6 +21,7 @@ body {
   height: 3.5rem;
   width: 100%;
   z-index: 1;
+  /* border-radius: 0%; */
   background-color: #fff;
   letter-spacing: 4px;
 }
